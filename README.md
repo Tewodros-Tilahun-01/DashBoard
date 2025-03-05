@@ -22,7 +22,7 @@ Installation & Usage
 
 Clone the repository:
 
-git clone https://github.com/your-username/dashboard-project.git
+git clone https://github.com/Tewodros-Tilahun-01/DashBoard.git
 
 Navigate to the project directory:
 
@@ -32,7 +32,7 @@ Open index.html in your browser.
 
 Screenshots
 
-![Dashboard Screenshot](assets/dashboard-preview.png)
+![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot(mobile)](<assets/dashboard(moblie).png>)
 
-[live demo](https://example.com)
-
+[live demo](https://tewodros-tilahun-01.github.io/DashBoard/)
